@@ -7,7 +7,7 @@
 <h3 align="center">Hearth of Hyperion</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=500&lines=How+my+wings+whisper+about+love+and+liberty" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=19&center=true&vCenter=true&width=500&lines=How+my+wings+whisper+about+love+and+liberty" alt="typing animation" />
 </p>
 
 ---
