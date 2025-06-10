@@ -23,7 +23,7 @@
 ### 💻 Simple comp.
 
 - **Web, Network**
-- **DevOps, CI/CD**
+- **DevOps**
 - **Docker deployment**
 - **Langs: DreamMaker, Python, bash**
 - **More than you wanna know**
