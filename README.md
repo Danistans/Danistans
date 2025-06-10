@@ -1,4 +1,4 @@
-<h2 align="center">Danistans или тот, кто представляет его интересы</h2>
+<h2 align="center">Danistans</h2>
 <p align="center">
   <img src="wing_left.png" alt="Left wing" width="100"/>
   <img src="Hyperion13_1.png" alt="Logo" width="80"/>
@@ -12,28 +12,32 @@
 
 ---
 
-### 🛡️ О себе
+### 🛡️ About me
 
-- Владелец билда **Hearth of Hyperion (13)**
-- Разработчик фреймворка **Hyperion Security Suite**
-- Координатор **Боевого крыла Гипериона**
-- Кодер **BYOND** и основатель **Академии начинающих контрибьюторов**
-- Просто сомнительная персона, с которой лучше не иметь дел
+- Master of **Hearth of Hyperion (13)**
+- Developer of **Hyperion Security Suite**
+- Chief sec off. of **Battle wing of Hyperion**
+- **BYOND** coder, mentor in **Academy of junior contributors**
+- Just a noname without fame
 
 ---
 
 ### 💻 Simple comp.
 
 - **Web, Network**
-- **DevOps**
+- **DevOps, System administration**
 - **Docker deployment**
 - **Langs: DreamMaker, Python, bash**
+- **Linux multiboot user**
 - **More than you wanna know**
 
 ---
-### 📫 Связь, если очень надо
+### 📫 Write to me
 
 - **Discord:** *hentai.russia*
+
+### 🍩 U know
+- *https://boosty.to/danistans/donate*
 ---
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
