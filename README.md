@@ -1,8 +1,7 @@
+<h1 align="center">Я Danistans или представляю его интересы</h1>
 <p align="center">
   <img src="Hyperion13.png" alt="Logo" width="120"/>
 </p>
-
-<h1 align="center">Я Danistans или представляю его интересы</h1>
 <h3 align="center">Hearth of Hyperion</h3>
 
 <p align="center">
