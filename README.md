@@ -1,4 +1,4 @@
-<h1 align="center">Я Danistans или представляю его интересы</h1>
+<h2 align="center">Danistans или тот, кто представляет его интересы</h2>
 <p align="center">
   <img src="wing_left.png" alt="Left wing" width="100"/>
   <img src="Hyperion13_1.png" alt="Logo" width="80"/>
