@@ -32,6 +32,9 @@
 - **More than you wanna know**
 
 ---
+### In before
+in preparation for the CompTIA Security+ exam
+---
 ### 📫 Write to me
 
 - **Discord:** *hentai.russia*
