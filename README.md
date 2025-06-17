@@ -34,7 +34,7 @@
 ---
 ### In before
 
-In preparation for the **CompTIA Security+ exam**
+- In preparation for the **CompTIA Security+ exam**
 ---
 ### 📫 Write to me
 
