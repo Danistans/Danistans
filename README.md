@@ -26,9 +26,6 @@
 
 - **Web, Network**
 - **DevOps, System administration**
-- **Docker deployment**
-- **Langs: DreamMaker, Python, bash**
-- **Linux multiboot user**
 - **More than you wanna know**
 
 ---
