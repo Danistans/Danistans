@@ -11,6 +11,11 @@
 </p>
 
 ---
+### At first
+- If you can't download BYOND for now from off. site — just take it from this rep: https://github.com/Danistans/BYOND-versions-mirror.git
+
+- *only from 516.1664 stable
+---
 
 ### 🛡️ About me
 
